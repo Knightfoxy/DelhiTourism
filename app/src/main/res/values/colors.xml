@@ -1,0 +1,11 @@
+<resources>
+    <color name="colorPrimary">#1FC5B5</color>
+    <color name="colorPrimaryDark">#05655C</color>
+    <color name="colorPrimaryLight">#009688</color>
+    <color name="colorAccent">#0B9E90</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
